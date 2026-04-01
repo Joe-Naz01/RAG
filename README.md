@@ -16,7 +16,7 @@ Large Language Models (LLMs) often lack knowledge of specific or private documen
 * **LLM**: Google Gemini 2.5 Flash
 * **Framework**: LangChain (LCEL)
 * **Embeddings**: Sentence-Transformers (HuggingFace)
-* **Vector Store**: DocArrayInMemorySearch
+* **Vector Store**: ChromaDB
 * **Environment**: Google Colab / Jupyter Notebook
 
 ## Setup & Installation
